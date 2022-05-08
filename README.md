@@ -1,7 +1,7 @@
 ### Heya there
+---
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,stackoverflow, regex, linux, flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,stackoverflow,regex,linux,flask)](https://skillicons.dev)
 
 <!--
 **UsernameTaken420/UsernameTaken420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
