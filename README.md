@@ -1,7 +1,5 @@
 ### Heya there
 ---
-stackoverflow,regex,linux,flask,,bash,c,cpp,docker,eclipse,figma,github,gherkin, , grafana, graphql, java, kubernetes, linux, , mastodon, mysql, postman, , 
-
 
 🍹 For personal projects
 
