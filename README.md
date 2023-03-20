@@ -4,12 +4,15 @@ stackoverflow,regex,linux,flask,,bash,c,cpp,docker,eclipse,figma,github,gherkin,
 
 
 🍹 For personal projects
+
 [![My Skills](https://skillicons.dev/icons?i=py,aws,godot,md,rust,vim,flask,linux,bash,mastodon,stackoverflow,github)](https://skillicons.dev)
 
 💼 When working
+
 [![My Skills](https://skillicons.dev/icons?i=grafana,gherkin,figma,kubernetes,docker,postman,graphql)](https://skillicons.dev)
 
 🤓 In college
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,regex,c,cpp,java,mysql)](https://skillicons.dev)
 
 <!--
