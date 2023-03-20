@@ -1,7 +1,16 @@
 ### Heya there
 ---
+stackoverflow,regex,linux,flask,,bash,c,cpp,docker,eclipse,figma,github,gherkin, , grafana, graphql, java, kubernetes, linux, , mastodon, mysql, postman, , 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,stackoverflow,regex,linux,flask)](https://skillicons.dev)
+
+🍹 For personal projects
+[![My Skills](https://skillicons.dev/icons?i=py,aws,godot,md,rust,vim,flask,linux,bash,mastodon,stackoverflow,github)](https://skillicons.dev)
+
+💼 When working
+[![My Skills](https://skillicons.dev/icons?i=grafana,gherkin,figma,kubernetes,docker,postman,graphql)](https://skillicons.dev)
+
+🤓 In college
+[![My Skills](https://skillicons.dev/icons?i=html,css,regex,c,cpp,java,mysql)](https://skillicons.dev)
 
 <!--
 **UsernameTaken420/UsernameTaken420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
