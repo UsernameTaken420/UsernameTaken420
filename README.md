@@ -7,7 +7,7 @@
 
 💼 When working
 
-[![My Skills](https://skillicons.dev/icons?i=grafana,gherkin,figma,kubernetes,docker,postman,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=grafana,gherkin,figma,kubernetes,docker,postman,graphql,selenium)](https://skillicons.dev)
 
 🤓 In college
 
