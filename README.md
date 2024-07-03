@@ -3,11 +3,11 @@
 
 🍹 For personal projects
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,godot,md,rust,vim,flask,linux,bash,mastodon,stackoverflow,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,godot,md,rust,flask,linux,bash)](https://skillicons.dev)
 
 💼 When working
 
-[![My Skills](https://skillicons.dev/icons?i=grafana,gherkin,figma,kubernetes,docker,postman,graphql,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,grafana,gherkin,figma,kubernetes,docker,postman,graphql,selenium,linux,bash)](https://skillicons.dev)
 
 🤓 In college
 
