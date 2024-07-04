@@ -3,7 +3,7 @@
 
 🍹 For personal projects
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,godot,md,rust,flask,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,godot,haskell,rust,flask,nix,linux,bash)](https://skillicons.dev)
 
 💼 When working
 
